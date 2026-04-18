@@ -6,11 +6,11 @@ A React-based web application for browsing popular movies and managing a persona
  
 ## Features
  
-- 🔥 Browse popular movies fetched from TMDB
-- 🔍 Search for any movie by title
-- ❤️ Add and remove movies from your favorites
-- 💾 Favorites persist across sessions via `localStorage`
-- 📱 Responsive movie grid layout
+-  Browse popular movies fetched from TMDB
+-  Search for any movie by title
+-  Add and remove movies from your favorites
+-  Favorites persist across sessions via `localStorage`
+-  Responsive movie grid layout
 
 ## Tech Stack
  
